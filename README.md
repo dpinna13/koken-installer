@@ -7,6 +7,7 @@ Just drop these files into the directory you'd like to install Koken under, set 
 move the files to /var/www/html/ and whatever folder name you wanna use.
 
 - install apache2
+- install mariadb-server
 - install php (I installed php7)
 - install php-curl
 - install imagemagick
