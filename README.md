@@ -13,3 +13,5 @@ move the files to /var/www/html/ and whatever folder name you wanna use.
 - install imagemagick
 
 Koken Installation test should now pass.
+
+Prepare mariadb/mysql locally with this tutorial ()[https://pimylifeup.com/raspberry-pi-mysql/]
